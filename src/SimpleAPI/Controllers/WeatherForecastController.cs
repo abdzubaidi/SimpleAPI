@@ -15,6 +15,7 @@ public class WeatherForecastController : ControllerBase
 
     public WeatherForecastController()
     {        
+        
     }
     public WeatherForecastController(ILogger<WeatherForecastController> logger)
     {
